@@ -5,6 +5,37 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiGva2&layout=compact&theme=gruvbox&hide=xc)
 
-### Currently working on:
+- Currently working on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=Blade-lang)](https://github.com/anuraghazra/github-readme-stats)
+
+- Languages i'm learning/want to learn:
+
+- [X] C++
+- [X] Clojure
+- [ ] Ruby
+- [ ] Elixir
+- [ ] Rust
+- [X] Python
+- [X] Js
+
+### A beautiful snippet that i want to put here:
+
+```clojure
+(defn tufparse
+  [expr]
+  (let [spexpr (clojure.string/split expr #" ")
+        funcs (loop [[curr & remn] spexpr
+               result []]
+          (if (and (empty? remn) (nil? curr))
+            (if (empty? result) PARSE-ERR result)
+            (recur
+             remn
+             (conj result
+                   (get functions curr curr)))))]
+    (map (fn [func]
+      ...
+```
+**From:**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=tuf-clojure)](https://github.com/anuraghazra/github-readme-stats)
