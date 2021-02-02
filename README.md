@@ -7,7 +7,7 @@
 
 - Currently working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=Blade-lang)](https://github.com/TsukiGva2/Blade-lang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=Blade-lang&theme=gruvbox)](https://github.com/TsukiGva2/Blade-lang)
 
 - Languages i'm learning/want to learn:
 
@@ -38,4 +38,4 @@
 ```
 **From:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=tuf-clojure)](https://github.com/TsukiGva2/tuf-clojure)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=tuf-clojure&theme=gruvbox)](https://github.com/TsukiGva2/tuf-clojure)
