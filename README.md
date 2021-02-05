@@ -19,23 +19,6 @@
 - [X] Python
 - [X] Js
 
-### A beautiful snippet that i want to put here:
+- Secondary project that i'm also working on
 
-```clojure
-(defn tufparse
-  [expr]
-  (let [spexpr (clojure.string/split expr #" ")
-        funcs (loop [[curr & remn] spexpr
-               result []]
-          (if (and (empty? remn) (nil? curr))
-            (if (empty? result) PARSE-ERR result)
-            (recur
-             remn
-             (conj result
-                   (get functions curr curr)))))]
-    (map (fn [func]
-      ...
-```
-**From:**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=tuf-clojure&theme=gruvbox)](https://github.com/TsukiGva2/tuf-clojure)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=tuf-clojure&theme=gruvbox)](https://github.com/TsukiGva2/docthis)
