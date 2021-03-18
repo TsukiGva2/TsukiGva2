@@ -21,4 +21,4 @@
 
 - Secondary project that i'm also working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=docthis&theme=gruvbox)](https://github.com/TsukiGva2/brainfuckin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=brainfuckin&theme=gruvbox)](https://github.com/TsukiGva2/brainfuckin)
