@@ -15,7 +15,7 @@
 - [X] Clojure
 - [ ] Ruby
 - [ ] Elixir
-- [ ] Rust
+- [X] Rust
 - [X] Python
 - [X] Js
 
