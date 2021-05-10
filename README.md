@@ -7,7 +7,7 @@
 
 - Currently working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=Blade-lang&theme=gruvbox)](https://github.com/TsukiGva2/Blade-lang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=Blade-lang&theme=gruvbox)](https://github.com/TsukiGva2/zup)
 
 - Languages i'm learning/want to learn:
 
@@ -21,4 +21,4 @@
 
 - Secondary project that i'm also working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=brainfuckin&theme=gruvbox)](https://github.com/TsukiGva2/brainfuckin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=brainfuckin&theme=gruvbox)](https://github.com/TsukiGva2/Blade-lang)
