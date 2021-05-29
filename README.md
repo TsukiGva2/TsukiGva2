@@ -3,22 +3,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsukiGva2&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiGva2&layout=compact&theme=gruvbox&hide=xc&exclude_repo=sxript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiGva2&layout=compact&theme=gruvbox&hide=xc&exclude_repo=sxript,unnoficial-zimbu,zup,venci)
+
+![Lol](https://metrics.lecoq.io/TsukiGva2)
 
 - Currently working on:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=zup&theme=gruvbox)](https://github.com/TsukiGva2/zup)
-
-- Languages i'm learning/want to learn:
-
-- [X] C++
-- [X] Clojure
-- [ ] Ruby
-- [ ] Elixir
-- [X] Rust
-- [X] Python
-- [X] Js
-
-- Secondary project that i'm also working on
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=Blade-lang&theme=gruvbox)](https://github.com/TsukiGva2/Blade-lang)
