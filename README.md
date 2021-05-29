@@ -9,7 +9,6 @@
 ![](https://img.shields.io/badge/Lang-C-informational?style=for-the-badge&logo=c&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Lang-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=ffffff)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiGva2&layout=compact&theme=gruvbox&hide=xc&exclude_repo=sxript,unnoficial-zimbu,zup,venci)
 
 ![Lol](https://metrics.lecoq.io/TsukiGva2)
