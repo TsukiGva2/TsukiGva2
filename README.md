@@ -9,4 +9,4 @@
 
 - Currently working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=pfn&theme=gruvbox)](https://github.com/TsukiGva2/pfn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=pfn&theme=gruvbox)](https://github.com/TsukiGva2/stackc)
