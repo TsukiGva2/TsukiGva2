@@ -8,7 +8,3 @@
 
 
 ![](https://metrics.lecoq.io/TsukiGva2)
-
-- Currently working on:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsukiGva2&repo=stackc&theme=gruvbox)](https://github.com/TsukiGva2/stackc)
