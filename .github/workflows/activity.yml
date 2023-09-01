@@ -3,11 +3,17 @@ on:
   workflow_dispatch:
     # (optional) Run workflow when pushing on master/main
     push: {branches: ["master", "main"]}
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.activity.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_activity: yes
-  plugin_activity_limit: 5
-  plugin_activity_days: 0
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
