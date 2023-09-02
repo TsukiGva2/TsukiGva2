@@ -1,6 +1,8 @@
 ### Hi! i'm TsukiGva2 ✌️
 i'm a (mainly C) programmer, I have limited programming experience right now, but that won't stop me from improving!
 
+![my programming habits](./metrics.plugin.habits.svg)
+
 Feel free to take a look around, I'm
 currently experimenting with graphics
 and begginning game development.
@@ -10,10 +12,17 @@ languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/Prog
 
 ### (i'm also an openbsd freak :^)
 
+![](https://img.shields.io/badge/OpenBSD%20-black.svg?&style=for-the-badge&logo=openbsd&logoColor=eeeeee)
+![](https://img.shields.io/badge/vim%20-black.svg?&style=for-the-badge&logo=vim&logoColor=eeeeee)
+![](https://img.shields.io/badge/C99%20-black.svg?&style=for-the-badge&logo=c&logoColor=eeeeee)
 
-![](https://img.shields.io/badge/OpenBSD%20-black.svg?&style=for-the-badge&logo=openbsd&logoColor=eeeeee)![](https://img.shields.io/badge/vim%20-black.svg?&style=for-the-badge&logo=vim&logoColor=eeeeee)![](https://img.shields.io/badge/C99%20-black.svg?&style=for-the-badge&logo=c&logoColor=eeeeee)
+![favorite topics](./metrics.plugin.topics.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiGva2&layout=compact&theme=onedark&hide=xc&exclude_repo=sxript,unnoficial-zimbu,zup,venci,TsukiGva2.github.io)
+### Top Languages
+![top languages](./metrics.plugin.languages.svg)
 
+### My Activity
+![activity](./metrics.plugin.activity.svg)
 
-![](https://metrics.lecoq.io/TsukiGva2)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiGva2&layout=compact&theme=onedark&hide=xc&exclude_repo=sxript,unnoficial-zimbu,zup,venci,TsukiGva2.github.io)-->
+
