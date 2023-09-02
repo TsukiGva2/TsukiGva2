@@ -46,5 +46,6 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: html, css, makefile
+          plugin_languages_skipped: sxript, unnoficial-zimbu, zup, venci
           plugin_languages_limit: 4
 
