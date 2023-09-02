@@ -12,7 +12,7 @@ languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/Prog
 
 ### (i'm also an openbsd freak :^)
 
-<div style="text-align: center">
+<div style="display: flex; justify-content: center">
 
 ![s](https://img.shields.io/badge/OpenBSD%20-black.svg?&style=for-the-badge&logo=openbsd&logoColor=eeeeee)
 ![s](https://img.shields.io/badge/vim%20-black.svg?&style=for-the-badge&logo=vim&logoColor=eeeeee)
