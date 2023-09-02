@@ -25,7 +25,17 @@ jobs:
         with:
           token: NOT_NEEDED
           filename: metrics.plugin.topics.svg
+          base: ""
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.svg
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: America/Sao_Paulo
 
