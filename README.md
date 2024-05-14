@@ -24,8 +24,5 @@ knowledge and understanding at the moment. But i'm improving!
 
 ![top languages](./metrics.plugin.languages.svg)
 
-### My Activity
-![activity](./metrics.plugin.activity.svg)
-
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiGva2&layout=compact&theme=onedark&hide=xc&exclude_repo=sxript,unnoficial-zimbu,zup,venci,TsukiGva2.github.io)-->
 
