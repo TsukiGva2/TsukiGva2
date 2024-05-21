@@ -9,10 +9,32 @@ a wide range of programming languages.
 I also like writing toy programming
 languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages/s/y9M0xSBdiL)
 
-### Misc.
+<hr>
+
+### Some random things i like:
+
+### Football 🖤🤍
 
 <p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/RioBAC.png" width="120" height="120" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/RioBAC.png" width="120" height="120" title="Rio Branco"/>
+</p>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a5/Vila_Nova_Futebol_Clube.png" width="48" height="auto" title="Vila Nova"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_1_FC_Kaiserslautern.svg/800px-Logo_1_FC_Kaiserslautern.svg.png" width="48" height="auto" title="FC Kaiserslautern"/>
+</p>
+
+### Operating Systems
+
+<p align="center">
+<img src="https://lowendbox.com/wp-content/uploads/2020/05/Puffy_mascot_openbsd.gif" width="auto" height="120" title="OpenBSD"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="auto" height="120" title="Linux"/>
+
+<img src="https://static.wikia.nocookie.net/logopedia/images/1/19/TempleOS.svg/revision/latest/scale-to-width-down/250?cb=20231022170020" width="auto" height="120" title="R.I.P Terry A. Davis"/>
+
+<img src="https://www.osdev.org/images/osdev.jpg" width="auto" height="120" title="Os Dev Wiki"/>
 </p>
 
 ```geojson
