@@ -11,19 +11,7 @@ languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/Prog
 
 <hr>
 
-### Some random things i like:
-
-### Football 🖤🤍
-
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/RioBAC.png" width="120" height="120" title="Rio Branco"/>
-</p>
-
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a5/Vila_Nova_Futebol_Clube.png" width="48" height="auto" title="Vila Nova"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_1_FC_Kaiserslautern.svg/800px-Logo_1_FC_Kaiserslautern.svg.png" width="48" height="auto" title="FC Kaiserslautern"/>
-</p>
+### I'm currently into:
 
 ### Operating Systems
 
@@ -36,6 +24,14 @@ languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/Prog
 
 <img src="https://www.osdev.org/images/osdev.jpg" width="auto" height="120" title="Os Dev Wiki"/>
 </p>
+
+#### Football 🖤🤍
+
+<p align="center">
+<img src="https://github.com/TsukiGva2/TsukiGva2/assets/71048858/c84dacf6-c711-47d8-92b8-73ab6f4cc7fe" width="auto" height="200" title="Rio Branco ES"/>
+</p>
+
+### My City
 
 ```geojson
 {
