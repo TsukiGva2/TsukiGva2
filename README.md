@@ -16,19 +16,19 @@ languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/Prog
 ### Operating Systems
 
 <p align="center">
-<img src="https://lowendbox.com/wp-content/uploads/2020/05/Puffy_mascot_openbsd.gif" width="auto" height="120" title="OpenBSD"/>
+<img src="https://lowendbox.com/wp-content/uploads/2020/05/Puffy_mascot_openbsd.gif" width="auto" height="120vh" title="OpenBSD"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="auto" height="120" title="Linux"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="auto" height="120vh" title="Linux"/>
 
-<img src="https://static.wikia.nocookie.net/logopedia/images/1/19/TempleOS.svg/revision/latest/scale-to-width-down/250?cb=20231022170020" width="auto" height="120" title="R.I.P Terry A. Davis"/>
+<img src="https://static.wikia.nocookie.net/logopedia/images/1/19/TempleOS.svg/revision/latest/scale-to-width-down/250?cb=20231022170020" width="auto" height="120vh" title="R.I.P Terry A. Davis"/>
 
-<img src="https://www.osdev.org/images/osdev.jpg" width="auto" height="120" title="Os Dev Wiki"/>
+<img src="https://www.osdev.org/images/osdev.jpg" width="auto" height="120vh" title="Os Dev Wiki"/>
 </p>
 
 #### Football 🖤🤍
 
 <p align="center">
-<img src="https://github.com/TsukiGva2/TsukiGva2/assets/71048858/c84dacf6-c711-47d8-92b8-73ab6f4cc7fe" width="auto" height="200" title="Rio Branco ES"/>
+<img src="https://github.com/TsukiGva2/TsukiGva2/assets/71048858/c84dacf6-c711-47d8-92b8-73ab6f4cc7fe" width="1000vw" height="auto" title="Rio Branco ES"/>
 </p>
 
 ### My City
