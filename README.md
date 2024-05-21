@@ -3,15 +3,11 @@ i'm a C programmer, currently focused in Operating Systems and Programming Langu
 You can check this page often for updates on my future projects (if i'm not insane by then).
 
 Feel free to take a look around, at the moment You'll
-mostly find projects experimenting with graphics,
-programming languages and game development.
+mostly find projects experimenting with random things in
+a wide range of programming languages.
 
 I also like writing toy programming
 languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages/s/y9M0xSBdiL)
-
-I seriously plan on participating on the development, but
-i surely lack the discipline and general systems programming
-knowledge and understanding at the moment. But i'm improving!
 
 ### Misc.
 
