@@ -15,7 +15,9 @@ knowledge and understanding at the moment. But i'm improving!
 
 ### Misc.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/RioBAC.png" width="120" height="120" />
+<p align="center">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/RioBAC.png" width="120" height="120" />
+</p>
 
 ```geojson
 {
