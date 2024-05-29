@@ -48,4 +48,10 @@ jobs:
           plugin_languages_ignored: html, css, makefile
           plugin_languages_skipped: sxript, unnoficial-zimbu, zup, venci
           plugin_languages_limit: 4
+      - uses: lowlighter/metrics@latest
+        with:  
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
 
