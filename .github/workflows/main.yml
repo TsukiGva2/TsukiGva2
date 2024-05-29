@@ -45,7 +45,7 @@ jobs:
           filename: metrics.plugin.languages.svg
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: html, css, makefile, FreeBasic
+          plugin_languages_ignored: html, css, makefile, FreeBasic, cpp, cmake, XC
           plugin_languages_skipped: sxript, unnoficial-zimbu, zup, venci
           plugin_languages_limit: 8
           plugin_languages_details: bytes_size, percentage
