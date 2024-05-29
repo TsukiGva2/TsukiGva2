@@ -47,7 +47,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, makefile, FreeBasic, cpp, cmake, XC
           plugin_languages_skipped: sxript, unnoficial-zimbu, zup, venci
-          plugin_languages_limit: 8
+          plugin_languages_limit: 5
           plugin_languages_details: bytes_size, percentage
           plugin_languages_recent_days: 100
       - uses: lowlighter/metrics@latest
