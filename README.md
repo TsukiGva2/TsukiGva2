@@ -33,12 +33,6 @@ languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/Prog
 <img src="https://www.osdev.org/images/osdev.jpg" width="auto" height="120vh" title="Os Dev Wiki"/>
 </p>
 
-#### Football 🖤🤍
-
-<p align="center">
-<img src="https://github.com/TsukiGva2/TsukiGva2/assets/71048858/c84dacf6-c711-47d8-92b8-73ab6f4cc7fe" width="1000vw" height="auto" title="Rio Branco ES"/>
-</p>
-
 ### My City
 
 ```geojson
