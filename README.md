@@ -24,10 +24,6 @@ Other        11 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<img src="https://github.com/TsukiGva2/TsukiGva2/blob/main/metrics.classic.svg"></img>
-<img src="https://github.com/TsukiGva2/TsukiGva2/blob/main/metrics.plugin.habits.svg"></img>
-<img src="https://github.com/TsukiGva2/TsukiGva2/blob/main/metrics.plugin.languages.svg"></img>
-
 ![s](https://img.shields.io/badge/OpenBSD%20-black.svg?&style=for-the-badge&logo=openbsd&logoColor=eeeeee)
 ![s](https://img.shields.io/badge/vim%20-black.svg?&style=for-the-badge&logo=vim&logoColor=eeeeee)
 ![s](https://img.shields.io/badge/Programming%20Language-black.svg?&style=for-the-badge&logo=c&logoColor=eeeeee)
