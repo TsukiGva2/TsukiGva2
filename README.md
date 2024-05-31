@@ -12,6 +12,10 @@ languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/Prog
 <!--START_SECTION:waka-->
 
 ```txt
+From: 30 May 2024 - To: 31 May 2024
+
+Total Time: 6 hrs 38 mins
+
 Lua          6 hrs 1 min     ██████████████████████░░░   88.33 %
 Vim Script   30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
 Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
