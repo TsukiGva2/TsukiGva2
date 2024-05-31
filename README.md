@@ -9,6 +9,9 @@ a wide range of programming languages.
 I also like writing toy programming
 languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages/s/y9M0xSBdiL)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="https://github.com/TsukiGva2/TsukiGva2/blob/main/metrics.classic.svg"></img>
 <img src="https://github.com/TsukiGva2/TsukiGva2/blob/main/metrics.plugin.habits.svg"></img>
 <img src="https://github.com/TsukiGva2/TsukiGva2/blob/main/metrics.plugin.languages.svg"></img>
