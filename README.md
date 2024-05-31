@@ -9,6 +9,7 @@ a wide range of programming languages.
 I also like writing toy programming
 languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages/s/y9M0xSBdiL)
 
+### Recent Activity
 <!--START_SECTION:waka-->
 
 ```txt
