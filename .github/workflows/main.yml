@@ -1,4 +1,4 @@
-name: Metrics
+name: Main_Workflow
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -21,26 +21,3 @@ jobs:
           SHOW_TIME: true
           TIME_RANGE: all_time
           SHOW_MASKED_TIME: false
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.activity.svg
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 1
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.habits.svg
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          config_timezone: America/Sao_Paulo
-
