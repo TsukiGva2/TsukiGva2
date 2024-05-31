@@ -10,6 +10,15 @@ I also like writing toy programming
 languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages/s/y9M0xSBdiL)
 
 <!--START_SECTION:waka-->
+
+```txt
+Lua          6 hrs 1 min     ██████████████████████░░░   88.33 %
+Vim Script   30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+conf         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://github.com/TsukiGva2/TsukiGva2/blob/main/metrics.classic.svg"></img>
