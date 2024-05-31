@@ -14,6 +14,12 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          IGNORED_LANGUAGES: YAML JSON TOML NETRW CONF BASH SH
+          SHOW_TITLE: true
+          SHOW_TOTAL: true
+          SHOW_TIME: true
+          TIME_RANGE: all_time
+          SHOW_MASKED_TIME: false
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
