@@ -1,5 +1,5 @@
 ### Hi! i'm TsukiGva2
-i'm a C programmer, currently focused in Operating Systems and Programming Langugage development.
+i'm a C programmer, currently focused in Operating Systems and Programming Language development.
 You can check this page often for updates on my future projects (if i'm not insane by then).
 
 Feel free to take a look around, at the moment You'll
