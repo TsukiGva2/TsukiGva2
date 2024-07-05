@@ -13,7 +13,7 @@ languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/Prog
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2024 - To: 03 July 2024
+From: 30 May 2024 - To: 04 July 2024
 
 Total Time: 44 hrs 9 mins
 
