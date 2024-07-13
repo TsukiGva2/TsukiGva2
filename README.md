@@ -13,15 +13,15 @@ languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/Prog
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2024 - To: 11 July 2024
+From: 30 May 2024 - To: 12 July 2024
 
-Total Time: 58 hrs 7 mins
+Total Time: 64 hrs 34 mins
 
-Python       33 hrs 47 mins  ██████████████░░░░░░░░░░░   56.42 %
-Lua          15 hrs 6 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
-Makefile     3 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Vim Script   1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Other        1 hr 45 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Python       40 hrs 11 mins  ███████████████░░░░░░░░░░   60.52 %
+Lua          15 hrs 6 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
+Makefile     3 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Vim Script   1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Other        1 hr 49 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
