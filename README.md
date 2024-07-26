@@ -1,15 +1,12 @@
-### Hi! i'm TsukiGva2
-i'm a C programmer, currently focused in Operating Systems and Programming Language development.
-You can check this page often for updates on my future projects (if i'm not insane by then).
+# Hi! I'm TsukiGva2
 
-Feel free to take a look around, at the moment You'll
-mostly find projects experimenting with random things in
-a wide range of programming languages.
+I'm ust a humble C programmer trying not to break my pc with dumb operating systems and programming language experiments. Check back here if you want to witness my slow descent into madness—or, you know, see some updates on my projects.
 
-I also like writing toy programming
-languages and actively browse [r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages/s/y9M0xSBdiL)
+Currently, you'll find a random collection of things as I mess around with whatever catches my interest in the programming world. I also dabble in creating toy programming languages and lurk around r/ProgrammingLanguages, pretending to be a wizard.
 
-### Recent Activity
+Feel free to poke around my repositories, leave some feedback, or just laugh at my code. Contributions welcome, but sanity not guaranteed!
+
+## Recent Shenanigans
 <!--START_SECTION:waka-->
 
 ```txt
