@@ -1,6 +1,6 @@
 # Hi! I'm TsukiGva2
 
-I'm ust a humble C programmer trying not to break my pc with dumb operating systems and programming language experiments. Check back here if you want to witness my slow descent into madness—or, you know, see some updates on my projects.
+I'm just a humble C programmer trying not to break my pc with dumb operating systems and programming language experiments. Check back here if you want to witness my slow descent into madness—or, you know, see some updates on my projects.
 
 Currently, you'll find a random collection of things as I mess around with whatever catches my interest in the programming world. I also dabble in creating toy programming languages and lurk around r/ProgrammingLanguages, pretending to be a wizard.
 
