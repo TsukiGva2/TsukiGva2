@@ -2,7 +2,7 @@
 
 I'm just a humble C programmer trying not to break my pc with dumb operating systems and programming language experiments. Check back here if you want to witness my slow descent into madness—or, you know, see some updates on my projects.
 
-![Inventory(1)](https://github.com/user-attachments/assets/390c5888-53d9-4a4c-87de-2ebc76495619)
+![Inventory(1)](https://github.com/user-attachments/assets/390c5888-53d9-4a4c-87de-2ebc76495619) <a href="https://github.com/TsukiGva2/melon"><img src="https://github.com/user-attachments/assets/11d688a6-d9a4-4cdf-a6b3-9615705cf339"></a>
 
 Currently, you'll find a random collection of things as I mess around with whatever catches my interest in the programming world. I also dabble in creating toy programming languages and lurk around r/ProgrammingLanguages, pretending to be a wizard.
 
