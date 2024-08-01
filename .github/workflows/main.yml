@@ -15,9 +15,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML NETRW CONF BASH SH
+          IGNORED_LANGUAGES: NETRW
           SHOW_TITLE: true
           SHOW_TOTAL: true
           SHOW_TIME: true
-          TIME_RANGE: all_time
+          TIME_RANGE: last_14_days
           SHOW_MASKED_TIME: false
