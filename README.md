@@ -6,10 +6,6 @@ I'm not really invested into C programming as recently, as i mostly use Lua/Pyth
 
 ## About me:
 
-<div height="50%">
-<img src="https://github.com/user-attachments/assets/390c5888-53d9-4a4c-87de-2ebc76495619" width="50%">
-</div>
-
 Currently, you'll find a random collection of things as I mess around with whatever catches my interest in the programming world. I also dabble in creating toy programming languages and lurk around r/ProgrammingLanguages, pretending to be a wizard.
 
 Feel free to poke around my repositories, leave some feedback, or just laugh at my code. Contributions welcome, but sanity not guaranteed!
