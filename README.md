@@ -14,14 +14,14 @@ Feel free to poke around my repositories, leave some feedback, or just laugh at 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2024 - To: 07 August 2024
+From: 30 May 2024 - To: 08 August 2024
 
-Total Time: 182 hrs 7 mins
+Total Time: 189 hrs 45 mins
 
-Python         116 hrs 1 min   ███████████████▒░░░░░░░░░   61.84 %
-Lua            18 hrs 58 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-Go             16 hrs 34 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-Other          5 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Python           116 hrs 20 mins ███████████████░░░░░░░░░░   59.40 %
+Go               19 hrs 51 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Lua              19 hrs 36 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+Other            6 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
