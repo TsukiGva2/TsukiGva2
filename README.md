@@ -14,7 +14,7 @@ Feel free to poke around my repositories, leave some feedback, or just laugh at 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2024 - To: 16 November 2024
+From: 30 May 2024 - To: 17 November 2024
 
 Total Time: 501 hrs 21 mins
 
