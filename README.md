@@ -1,6 +1,6 @@
 # Hi! I'm TsukiGva2
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsukigva2)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsukigva2&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm just a humble C programmer trying not to break my pc with dumb operating systems and programming language experiments. Check back here if you want to witness my slow descent into madness—or, you know, see some updates on my projects.
 
