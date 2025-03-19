@@ -1,5 +1,7 @@
 # Hi! I'm TsukiGva2
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsukigva2)](https://github.com/anuraghazra/github-readme-stats)
+
 I'm just a humble C programmer trying not to break my pc with dumb operating systems and programming language experiments. Check back here if you want to witness my slow descent into madness—or, you know, see some updates on my projects.
 
 I'm not really invested into C programming as recently, as i mostly use Lua/Python at work.
@@ -9,6 +11,7 @@ I'm not really invested into C programming as recently, as i mostly use Lua/Pyth
 Currently, you'll find a random collection of things as I mess around with whatever catches my interest in the programming world. I also dabble in creating toy programming languages and lurk around r/ProgrammingLanguages, pretending to be a wizard.
 
 Feel free to poke around my repositories, leave some feedback, or just laugh at my code. Contributions welcome, but sanity not guaranteed!
+
 
 ## Wakatime stats
 <!--START_SECTION:waka-->
