@@ -17,14 +17,11 @@ Feel free to poke around my repositories, leave some feedback, or just laugh at 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2024 - To: 24 March 2025
+From: 28 March 2025 - To: 28 March 2025
 
-Total Time: 542 hrs 12 mins
+Total Time: 0 secs
 
-Go               179 hrs 23 mins ████████░░░░░░░░░░░░░░░░░   31.99 %
-Python           134 hrs 24 mins ██████░░░░░░░░░░░░░░░░░░░   23.97 %
-PHP              48 hrs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-LLVM             35 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
