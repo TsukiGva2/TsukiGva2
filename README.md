@@ -17,14 +17,14 @@ Feel free to poke around my repositories, leave some feedback, or just laugh at 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 04 April 2025
+From: 28 March 2025 - To: 05 April 2025
 
-Total Time: 8 hrs 18 mins
+Total Time: 8 hrs 29 mins
 
-C++          3 hrs 46 mins   ██████████▓░░░░░░░░░░░░░░   43.31 %
-Go           2 hrs 59 mins   ████████▓░░░░░░░░░░░░░░░░   34.29 %
-TypeScript   42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Git          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+C++          3 hrs 46 mins   ██████████▓░░░░░░░░░░░░░░   42.43 %
+Go           3 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   35.63 %
+TypeScript   42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Git          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
 ```
 
 <!--END_SECTION:waka-->
