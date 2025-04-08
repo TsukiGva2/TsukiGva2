@@ -17,14 +17,18 @@ Feel free to poke around my repositories, leave some feedback, or just laugh at 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 06 April 2025
+From: 28 March 2025 - To: 07 April 2025
 
-Total Time: 8 hrs 29 mins
+Total Time: 12 hrs 25 mins
 
-C++          3 hrs 46 mins   ██████████▓░░░░░░░░░░░░░░   42.43 %
-Go           3 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   35.63 %
-TypeScript   42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-Git          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+C++          3 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   29.35 %
+Go           3 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+Bash         2 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+PHP          57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+TypeScript   42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Git          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Python       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 ```
 
 <!--END_SECTION:waka-->
