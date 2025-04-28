@@ -17,17 +17,17 @@ Feel free to poke around my repositories, leave some feedback, or just laugh at 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 25 April 2025
+From: 28 March 2025 - To: 26 April 2025
 
-Total Time: 50 hrs 54 mins
+Total Time: 51 hrs 15 mins
 
-Go           22 hrs 36 mins  ██████████░░░░░░░░░░░░░░░   39.83 %
-C++          17 hrs 23 mins  ███████▓░░░░░░░░░░░░░░░░░   30.65 %
-Other        5 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-PHP          3 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Bash         2 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Markdown     1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-TypeScript   42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Go           22 hrs 36 mins  ██████████░░░░░░░░░░░░░░░   39.59 %
+C++          17 hrs 23 mins  ███████▓░░░░░░░░░░░░░░░░░   30.46 %
+Other        5 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+PHP          3 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Bash         2 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Markdown     1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+TypeScript   42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 Git          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
