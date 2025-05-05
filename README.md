@@ -17,7 +17,7 @@ Feel free to poke around my repositories, leave some feedback, or just laugh at 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 03 May 2025
+From: 28 March 2025 - To: 04 May 2025
 
 Total Time: 56 hrs 14 mins
 
