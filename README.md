@@ -4,7 +4,7 @@
 
 I'm just a humble C programmer trying not to break my pc with dumb operating systems and programming language experiments. Check back here if you want to witness my slow descent into madness—or, you know, see some updates on my projects.
 
-I'm not really invested into C programming as recently, as i mostly use Lua/Python at work.
+I'm not really invested into C programming as recently, as i mostly use Go/C++ at work.
 
 ## About me:
 
