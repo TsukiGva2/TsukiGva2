@@ -14,6 +14,7 @@ Feel free to poke around my repositories, leave some feedback, or just laugh at 
 
 
 ## Wakatime stats
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -32,5 +33,7 @@ TypeScript    42 mins         ▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+## Bonus: ruin your day with PHP logic
 
 ![image](https://github.com/user-attachments/assets/ca5eea46-08ff-4478-864a-a9008b433368)
