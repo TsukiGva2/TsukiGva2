@@ -33,6 +33,4 @@ TypeScript    42 mins         ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## Also fuck this
-
-![image](https://github.com/user-attachments/assets/02fe3cd0-a83b-47bd-91f9-fa3aafd29f5c)
+![image](https://github.com/user-attachments/assets/ca5eea46-08ff-4478-864a-a9008b433368)
