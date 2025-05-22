@@ -18,18 +18,18 @@ Feel free to poke around my repositories, leave some feedback, or just laugh at 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 19 May 2025
+From: 28 March 2025 - To: 21 May 2025
 
-Total Time: 72 hrs 35 mins
+Total Time: 83 hrs 53 mins
 
-Go                   36 hrs 27 mins  ███████████▒░░░░░░░░░░░░░   45.71 %
-C++                  18 hrs 53 mins  ██████░░░░░░░░░░░░░░░░░░░   23.70 %
-Other                7 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-PHP                  7 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Bash                 2 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-OCaml                1 hr 26 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Markdown             1 hr 19 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-TypeScript           42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Go                   36 hrs 27 mins  ██████████░░░░░░░░░░░░░░░   40.03 %
+C++                  18 hrs 53 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
+PHP                  18 hrs 20 mins  █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+Other                7 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Bash                 2 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+OCaml                1 hr 26 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Markdown             1 hr 19 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+TypeScript           42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
