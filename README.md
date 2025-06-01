@@ -18,14 +18,14 @@ Feel free to poke around my repositories, leave some feedback, or just laugh at 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 29 May 2025
+From: 28 March 2025 - To: 30 May 2025
 
 Total Time: 97 hrs 4 mins
 
-Go                   36 hrs 27 mins  ████████▓░░░░░░░░░░░░░░░░   34.76 %
+Go                   36 hrs 27 mins  ████████▓░░░░░░░░░░░░░░░░   34.75 %
 PHP                  30 hrs 35 mins  ███████▒░░░░░░░░░░░░░░░░░   29.17 %
 C++                  18 hrs 53 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
-Other                7 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Other                7 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
 Bash                 2 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 OCaml                1 hr 26 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 Markdown             1 hr 19 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
