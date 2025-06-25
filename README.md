@@ -2,18 +2,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 23 June 2025
+From: 28 March 2025 - To: 24 June 2025
 
-Total Time: 161 hrs 56 mins
+Total Time: 162 hrs 44 mins
 
-PHP                  85 hrs 23 mins  ████████████▓░░░░░░░░░░░░   50.10 %
-Go                   37 hrs 15 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
-C++                  18 hrs 57 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Other                8 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Python               4 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+PHP                  86 hrs 11 mins  ████████████▓░░░░░░░░░░░░   50.33 %
+Go                   37 hrs 15 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
+C++                  18 hrs 57 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+Other                8 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Python               4 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 Bash                 2 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-SQL                  2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-TypeScript           2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+SQL                  2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+TypeScript           2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
