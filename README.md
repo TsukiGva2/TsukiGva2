@@ -1,5 +1,5 @@
 
-![TsukiGva2's stats](https://github-readme-stats.vercel.app/api?username=TsukiGva2&show_icons=true&theme=radical)
+![TsukiGva2's stats](https://github-readme-stats.vercel.app/api?username=TsukiGva2&show_icons=true&theme=gruvbox)
 
 <!--START_SECTION:waka-->
 
